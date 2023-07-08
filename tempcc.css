@@ -1,0 +1,21 @@
+input {
+  border-radius: 20px;
+  border: 2px #3c4043;
+  font-size: 16px;
+  line-height: 1;
+  outline: none;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  background-color: light-blue;
+}
+  
+p {
+  color: green;
+  font-weight: bold;
+  ;
+  
+}
+input:focus {
+  border: 5px solid ;
+  background-color: lightblue;
+}
